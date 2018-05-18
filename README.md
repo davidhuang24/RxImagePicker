@@ -51,16 +51,16 @@ RxImagePicker是一个用于Android的响应式图片选择器，它将您的图
 
 #### 知乎主题
 
-<div>
-<div><img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_zhihu_dracula.png"/></div>
-<div><img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_zhihu_normal.png"/></div>
+<div align:left;display:inline;>
+<img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_zhihu_dracula.png"/>
+<img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_zhihu_normal.png"/>
 </div>
 
 
 #### 微信主题
-<div>
-<div><img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_wechat.png"/></div>
-<div><img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_wechat_expand.png"/></div>
+<div align:left;display:inline;>
+<img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_wechat.png"/>
+<img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_wechat_expand.png"/>
 </div>
 
 #### 结果展示
