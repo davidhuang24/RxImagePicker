@@ -47,18 +47,25 @@ RxImagePicker是一个用于Android的响应式图片选择器，它将您的图
 
 #### 系统图片选择
 
-![screenshot_sysytem](https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_sysytem.png)
+<div align="left"><img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_sysytem.png"/></div>
 
 #### 知乎主题
-![screenshot_zhihu_dracula](https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_zhihu_dracula.png)
-![screenshot_zhihu_normal](https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_zhihu_normal.png)
+
+<div>
+<div><img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_zhihu_dracula.png"/></div>
+<div><img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_zhihu_normal.png"/></div>
+</div>
+
 
 #### 微信主题
-<div align="left"><img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_wechat.png"/></div>
+<div>
+<div><img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_wechat.png"/></div>
 <div><img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_wechat_expand.png"/></div>
+</div>
 
 #### 结果展示
-![screenshot_result](https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_result.png)
+<div align="left"><img width="200" height="360" src="https://github.com/qingmei2/RxImagePicker/blob/master/screenshot/screenshot_result.png"/></div>
+
 
 <h2 id="usage">基本使用</h2>
 
